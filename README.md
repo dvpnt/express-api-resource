@@ -1,4 +1,4 @@
-# express-api-resource
+# @dvpnt/express-api-resource
 [![Build Status](https://travis-ci.org/dvpnt/express-api-resource.svg?branch=master)](https://travis-ci.org/dvpnt/express-api-resource)
 [![Coverage Status](https://coveralls.io/repos/github/dvpnt/express-api-resource/badge.svg?branch=master)](https://coveralls.io/github/dvpnt/express-api-resource?branch=master)
 [![NPM Version](https://img.shields.io/npm/v/@dvpnt/express-api-resource.svg)](https://www.npmjs.com/package/@dvpnt/express-api-resource)
