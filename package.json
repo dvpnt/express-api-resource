@@ -1,6 +1,6 @@
 {
   "name": "@dvpnt/express-api-resource",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "convenient wrapper for express router for easy REST API building and composing",
   "main": "index.js",
   "scripts": {
