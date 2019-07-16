@@ -18,7 +18,7 @@ const ApiResource = require('@dvpnt/express-api-resource');
 const resource = new ApiResource({
 	root: 'entities',
 	versions: ['1.0'],
-	idAttributeName: id
+	idAttributeName: 'id'
 });
 
 resource.getOne('1.0', (req, res) => {
