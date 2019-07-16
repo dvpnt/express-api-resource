@@ -1,0 +1,35 @@
+{
+  "name": "@dvpnt/express-api-resource",
+  "version": "0.0.1",
+  "description": "convenient wrapper for express router for easy REST API building and composing",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint ./",
+    "test": "tap --bail --100 test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dvpnt/express-api-resource.git"
+  },
+  "author": "Aleksey Timchenko <flegmatik.bel@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dvpnt/express-api-resource/issues"
+  },
+  "homepage": "https://github.com/dvpnt/express-api-resource#readme",
+  "dependencies": {
+    "semver": "6.2.0",
+    "underscore": "1.9.1"
+  },
+  "devDependencies": {
+    "eslint": "5.7.0",
+    "eslint-config-dvpnt": "3.1.0",
+    "express": "4.17.1",
+    "p-map": "3.0.0",
+    "supertest": "4.0.2",
+    "tap": "14.4.1"
+  },
+  "peerDependencies": {
+    "express": "4"
+  }
+}
